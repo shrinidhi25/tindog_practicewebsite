@@ -1,2 +1,1 @@
-# tindog_practicewebsite
-Website created for practice purpose.
+TinDog Starting Files
